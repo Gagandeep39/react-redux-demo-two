@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-redux-demo-two/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-redux-demo-two/static/js/main.c2f8c199.chunk.js",
+    "main.js.map": "/react-redux-demo-two/static/js/main.c2f8c199.chunk.js.map",
+    "runtime-main.js": "/react-redux-demo-two/static/js/runtime-main.06a7287c.js",
+    "runtime-main.js.map": "/react-redux-demo-two/static/js/runtime-main.06a7287c.js.map",
+    "static/js/2.cb54de29.chunk.js": "/react-redux-demo-two/static/js/2.cb54de29.chunk.js",
+    "static/js/2.cb54de29.chunk.js.map": "/react-redux-demo-two/static/js/2.cb54de29.chunk.js.map",
+    "index.html": "/react-redux-demo-two/index.html",
+    "precache-manifest.aebb79d3ef0706c4e65cfed32aa8f489.js": "/react-redux-demo-two/precache-manifest.aebb79d3ef0706c4e65cfed32aa8f489.js",
+    "service-worker.js": "/react-redux-demo-two/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-redux-demo-two/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cb54de29.chunk.js.LICENSE.txt": "/react-redux-demo-two/static/js/2.cb54de29.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-redux-demo-two/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a7287c.js",
+    "static/js/2.cb54de29.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c2f8c199.chunk.js"
+  ]
+}
