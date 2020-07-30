@@ -8,9 +8,9 @@ const reducer = (state = initialState, action) => {
   switch (action.type) {
     case actionTypes.ADD_PERSON:
       const newPerson = {
-        id: Math.random(), // not really unique but good enough here!
-        name: 'Gagandeep',
-        age: Math.floor(Math.random() * 40),
+        id: new Date(), // not really unique but good enough here!
+        name: action.personData.name,
+        age: action.personData.age,
       };
       return {
         ...state,
